@@ -1,0 +1,52 @@
+{
+  "Beginner Corporation":"初心者企業",
+
+  "Thorgate":"トールゲート",
+  "You start with 1 energy production and 48 M€.":"開始時: エネルギー産出+1、48 M€。",
+  "Effect: When playing a power card OR THE STANDARD PROJECT POWER PLANT, you pay 3 M€ less for it.":"効果: 電力タグをプレイ時または、標準プロジェクト<発電所の設置>実行の際、コスト-3 M€。",
+
+  "EcoLine":"エコライン",
+  "You start with 2 plant production, 3 plants, and 36 M€.":"開始時: 植物産出+2、植物3個、36 M€。",
+  "Effect: You may always pay 7 plants, instead of 8, to place greenery.":"効果: 植物8個ではなく7個で緑地タイルを置ける。",
+
+  "Helion":"ヘリオン",
+  "You start with 3 heat production and 42 M€.":"開始時: 発熱産出+3、42 M€。",
+  "Effect: You may use heat as MC. You may not use M€ as heat.":"効果: 発熱をM€として使用可能、逆は不可。",
+
+ "Mining Guild":"マイニングギルド",
+  "You start with 30 M€, 5 steel and 1 steel production.":"開始時: 建材産出+1、建材5個、30M€。",
+  "Effect: Each time you get any steel or titanium as a placement bonus on the map, increase your steel production 1 step.":"効果: 配置ボーナスで建材やチタンを獲得したら、建材産出+1。",
+
+  "Tharsis Republic":"タルシス共和国",
+  "You start with 40 M€. As your first action in the game, place a city tile.":"開始時: 40M€、ゲーム最初のアクションとして都市タイルを1枚配置。",
+  "Effect: When any city tile is placed ON MARS, increase your M€ production 1 step. When you place a city tile, gain 3 M€.":"効果: 火星上に都市が配置されるごとに、M€産出量+1。自分で配置した場合はさらに3M€獲得。",
+
+  "Inventrix":"インヴェントリクス",
+  "As your first action in the game, draw 3 cards. Start with 45 M€.":"開始時: 45M€、ゲーム最初のアクションとしてカードを3枚獲得。",
+  "Effect: Your temperature, oxygen, ocean, and Venus requirements are +2 or -2 steps, your choice in each case.":"効果: グローバルパラメータの各条件は、それぞれ+2または-2として扱うことができる(ヴィーナスネクストを追加している場合は金星パラメータも含む)。",
+
+  "Interplanetary Cinematics":"惑星間シネマティクス",
+  "You start with 20 steel and 30 M€.":"開始時: 建材20個、30M€。",
+  "Effect: Each time you play an event, you gain 2 M€.":"効果: イベントカードプレイ後、2M€獲得。",
+
+  "PhoboLog":"フォボログ",
+  "You start with 10 titanium and 23 M€.":"開始時:チタン10個、23M€。",
+  "Effect: Your titanium resources are each worth 1 M€ extra.":"効果:チタンの価値+1M€として使用可能。",
+
+  "CrediCor":"クレディコー",
+  "You start with 57 M€.":"開始時: 57M€。",
+  "Effect: After you pay for a card or standard project with a basic cost of 20M€ or more, you gain 4 M€.":"効果: 20M€以上のカードや標準プロジェクトのコストを支払った後、4M€獲得。",
+
+ "United Nations Mars Initiative":"国連火星動議",
+ "You start with 40 M€.":"開始時: 40M€。",
+ "Action: If your Terraform Rating was raised this generation, you may pay 3 M€ to raise it 1 step more.":"アクション: 自分のTRが上昇した世代で、3M€支払えば追加でTR1上昇。",
+
+  "Saturn Systems":"サターンシステムズ",
+  "You start with 1 titanium production and 42 M€.":"開始時: チタン産出+1、42M€。",
+  "Effect: Each time any Jovian tag is put into play, including this, increase your M€ production 1 step.":"効果: このカードを含め、木星タグがプレイされるたびに、自分のM€産出+1",
+
+  "Teractor":"テラクター",
+  "You start with 60 M€.":"開始時: 60M€。",
+  "Effect: When you play an Earth tag, you pay 3 M€ less for it.":"効果: 地球タグをプレイ時、コスト-3M€",
+
+}
